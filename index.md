@@ -5,8 +5,7 @@
 * [Sistema de CRUD Básico utilizando ASP.NET MVC CORE com Entity Framework e PostgreSQL (com pgAdmin4) como SGBD.](https://github.com/LukeDaniel16/RSistemasCRUDCompleto)
 * [App de como criar um PDF Básico utilizando Java para Android.](https://github.com/LukeDaniel16/CreatePDFwithJavaOnAndroidStudio)
 * [Aplicação WEB para organização de tarefas pessoais - Usando Vue.JS e Asp.net Core (back-end privado) (Projeto para disciplina de Engenharia Web do curso de Ciência da Computação).](https://github.com/LukeDaniel16/findMyTasks)
-* [Projeto Maceió: As melhores praias! - Utilizando Nuxt.JS (Vue.JS) no Frontend](https://github.com/LukeDaniel16/BestBeachesMaceio-FrontEnd)
-* [e GoLang no Backend](https://github.com/LukeDaniel16/BestBeachesMaceio-BackEnd)
+* [Projeto Maceió: As melhores praias! - Utilizando Nuxt.JS (Vue.JS) no Frontend](https://github.com/LukeDaniel16/BestBeachesMaceio-FrontEnd)[e GoLang no Backend](https://github.com/LukeDaniel16/BestBeachesMaceio-BackEnd)
 * [Tela de login simples com css e html puro.](https://github.com/LukeDaniel16/simple-login-page)
 
 #### Sobre mim: 
