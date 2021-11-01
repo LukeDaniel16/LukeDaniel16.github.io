@@ -6,6 +6,7 @@
 * [Aplicação WEB para organização de tarefas pessoais - Usando ASP.NET Core WebAPI (Backend) - (Projeto para disciplina de Engenharia Web do curso de Ciência da Computação).](https://github.com/LukeDaniel16/PlanAPI-BackEnd)
 * [Sistema de CRUD Básico utilizando ASP.NET MVC CORE com Entity Framework e PostgreSQL (com pgAdmin4) como SGBD.](https://github.com/LukeDaniel16/RSistemasCRUDCompleto)
 * [App de como criar um PDF Básico utilizando Java para Android.](https://github.com/LukeDaniel16/CreatePDFwithJavaOnAndroidStudio)
+* [Curso Modelando Domínios Ricos do balta.io.](https://github.com/LukeDaniel16/ModelandoDominiosRicos)
 * [Tela de login simples com css e html puro.](https://github.com/LukeDaniel16/simple-login-page)
 
 #### Sobre mim: 
