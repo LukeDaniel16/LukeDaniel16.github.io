@@ -10,7 +10,7 @@
 * [Curso Começando com Angular do balta.io.](https://github.com/LukeDaniel16/Comecando-com-Angular)
 
 #### Sobre mim: 
-_Me chamo Lucas Daniel da Silva, sou desenvolvedor com ênfase em tecnologia Mobile (Android nativo com Java e híbrido com Flutter) e Web (iniciando com asp.net), cursando Ciência da Computação pelo Instituto Federal Goiano - Campus Morrinhos, meu interesse na área da computação deu início em meados de 2012, quando tive meu primeiro computador, a partir daí foi paixão na certa, até que em 2018 iniciei meus estudos na área de desenvolvimento de Software._
+_Me chamo Lucas Daniel da Silva, sou desenvolvedor com ênfase em tecnologia Mobile (Android nativo com Java e híbrido com Flutter) e Web (.NET com C#), cursando Ciência da Computação pelo Instituto Federal Goiano - Campus Morrinhos, meu interesse na área da computação deu início em meados de 2012, quando tive meu primeiro computador, a partir daí foi paixão na certa, até que em 2018 iniciei meus estudos na área de desenvolvimento de Software._
 
 
 
