@@ -16,7 +16,7 @@
 
 * [Curso Começando com Angular do balta.io.](https://github.com/LukeDaniel16/Comecando-com-Angular)
 <div align='center'>Você pode conferir meu perfil completo no Github clicando <a href='https://github.com/LukeDaniel16'>aqui</a>!</div>
-<div align='center'><i>Ah! E caso queira me contatar, <a href='https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/'>aqui está<a/> o meu perfil no LinkedIn!</i></div>
+<div align='center'>_Ah! E caso queira me contatar, <a href='https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/'>aqui está<a/> o meu perfil no LinkedIn!_</div>
 
 
 #### Sobre mim: 
