@@ -18,7 +18,7 @@
 <div align='center'>
   <p>
   Você pode conferir meu perfil completo no Github clicando <a href='https://github.com/LukeDaniel16'>aqui</a>!
-  <br><i>Ah! E caso queira me contatar, <a href='https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/'>aqui está<a/> o meu perfil LinkedIn!</i>  
+  <br><i>Ah! E caso queira me contatar, <a href='https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/'>aqui está<a/> o meu perfil no LinkedIn!</i>  
   </p>
 </div>
 
