@@ -15,11 +15,9 @@
 * [Curso Modelando Domínios Ricos do balta.io.](https://github.com/LukeDaniel16/ModelandoDominiosRicos)
 
 * [Curso Começando com Angular do balta.io.](https://github.com/LukeDaniel16/Comecando-com-Angular)
-<div align='center'>
-  <p>
+<div align='center'>  
   Você pode conferir meu perfil completo no Github clicando <a href='https://github.com/LukeDaniel16'>aqui</a>!
-  <br><i>Ah! E caso queira me contatar, <a href='https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/'>aqui está<a/> o meu perfil LinkedIn!<i>
-  </p>  
+  <i>Ah! E caso queira me contatar, <a href='https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/'>aqui está<a/> o meu perfil LinkedIn!<i>  
 </div>
 
 #### Sobre mim: 
