@@ -15,11 +15,9 @@
 * [Curso Modelando Domínios Ricos do balta.io.](https://github.com/LukeDaniel16/ModelandoDominiosRicos)
 
 * [Curso Começando com Angular do balta.io.](https://github.com/LukeDaniel16/Comecando-com-Angular)
-<div align='center'>
-  Você pode conferir meu perfil completo no Github clicando <a href='https://github.com/LukeDaniel16'>aqui</a>!
-  
-  <i>Ah! E caso queira me contatar, <a href='https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/'>aqui está<a/> o meu perfil no LinkedIn!</i>
-</div>
+<div align='center'>Você pode conferir meu perfil completo no Github clicando <a href='https://github.com/LukeDaniel16'>aqui</a>!</div>
+<div align='center'><i>Ah! E caso queira me contatar, <a href='https://www.linkedin.com/in/lucas-daniel-da-silva-69b146188/'>aqui está<a/> o meu perfil no LinkedIn!</i></div>
+
 
 #### Sobre mim: 
 _Me chamo Lucas Daniel da Silva, sou desenvolvedor com ênfase em tecnologia Mobile (Android nativo com Java e híbrido com Flutter) e Web (.NET com C#), cursando Ciência da Computação pelo Instituto Federal Goiano - Campus Morrinhos, meu interesse na área da computação deu início em meados de 2012, quando tive meu primeiro computador, a partir daí foi paixão na certa, até que em 2018 iniciei meus estudos na área de desenvolvimento de Software._
