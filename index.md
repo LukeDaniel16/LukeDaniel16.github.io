@@ -3,11 +3,17 @@
 
 #### Projetos:
 * [Aplicação WEB para organização de tarefas pessoais - Usando Vue.JS (Frontend) - (Projeto para disciplina de Engenharia Web do curso de Ciência da Computação).](https://github.com/LukeDaniel16/PlanAPI-FrontEnd)
+
 * [Aplicação WEB para organização de tarefas pessoais - Usando ASP.NET Core WebAPI (Backend) - (Projeto para disciplina de Engenharia Web do curso de Ciência da Computação).](https://github.com/LukeDaniel16/PlanAPI-BackEnd)
+
 * [Conteúdo aprendido no Curso Clean Architecture Essencial - ASP .NET Core com C#](https://user-images.githubusercontent.com/34628898/184560583-7b58c50d-ebbe-4271-8e50-5ac149749372.png)
+
 * [Sistema de CRUD Básico utilizando ASP.NET MVC CORE com Entity Framework e PostgreSQL (com pgAdmin4) como SGBD.](https://github.com/LukeDaniel16/RSistemasCRUDCompleto)
+
 * [App de como criar um PDF Básico utilizando Java para Android.](https://github.com/LukeDaniel16/CreatePDFwithJavaOnAndroidStudio)
+
 * [Curso Modelando Domínios Ricos do balta.io.](https://github.com/LukeDaniel16/ModelandoDominiosRicos)
+
 * [Curso Começando com Angular do balta.io.](https://github.com/LukeDaniel16/Comecando-com-Angular)
 
 #### Sobre mim: 
